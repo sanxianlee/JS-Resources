@@ -1,4 +1,4 @@
-# Jsource
+# JS-Resources
 
 前端资源的收集
 
